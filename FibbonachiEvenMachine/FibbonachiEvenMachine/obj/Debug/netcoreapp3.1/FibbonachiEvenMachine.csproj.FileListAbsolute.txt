@@ -1,0 +1,13 @@
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\bin\Debug\netcoreapp3.1\FibbonachiEvenMachine.exe
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\bin\Debug\netcoreapp3.1\FibbonachiEvenMachine.deps.json
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\bin\Debug\netcoreapp3.1\FibbonachiEvenMachine.runtimeconfig.json
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\bin\Debug\netcoreapp3.1\FibbonachiEvenMachine.runtimeconfig.dev.json
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\bin\Debug\netcoreapp3.1\FibbonachiEvenMachine.dll
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\bin\Debug\netcoreapp3.1\FibbonachiEvenMachine.pdb
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.csprojAssemblyReference.cache
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.AssemblyInfoInputs.cache
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.AssemblyInfo.cs
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.dll
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.pdb
+C:\Users\basbi\source\repos\FibbonachiEvenMachine\FibbonachiEvenMachine\obj\Debug\netcoreapp3.1\FibbonachiEvenMachine.genruntimeconfig.cache
